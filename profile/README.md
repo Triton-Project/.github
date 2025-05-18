@@ -1,4 +1,4 @@
-# AquaWiz 🌊🦈🤖
+# Triton-Project 🌊🦈🤖
 
 **Where fish fear to swim, our drones dare to dive!**
 
